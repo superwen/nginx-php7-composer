@@ -1,0 +1,7 @@
+# MariaDB 10.5 [Stable] CentOS repository list - created 2020-09-13 02:25 UTC
+# https://mariadb.org/download-test/
+[mariadb]
+name = MariaDB
+baseurl = https://mirrors.ustc.edu.cn/mariadb/yum/10.5/centos7-aarch64
+gpgkey=https://mirrors.ustc.edu.cn/mariadb/yum/RPM-GPG-KEY-MariaDB
+gpgcheck=1
